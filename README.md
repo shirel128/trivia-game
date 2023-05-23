@@ -1,5 +1,5 @@
-# Trivia_Shirel_Noam_2022
-
+# Trivia-game
+:point_up:
 ## Setup Server
 - Download beast boost library: https://www.boost.org/users/history/version_1_79_0.html
 - Download nholman json: https://github.com/nlohmann/json/releases/tag/v3.10.5
