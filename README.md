@@ -1,4 +1,4 @@
-# Trivia-game
+# Trivia-game :pushpin:
 :point_up:
 ## Setup Server
 - Download beast boost library: https://www.boost.org/users/history/version_1_79_0.html
@@ -13,4 +13,4 @@
 - `npm start`
 
 
-### That's all (I guess)
+### That's all
