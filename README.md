@@ -1,4 +1,4 @@
-# Trivia-game :pushpin:
+# Trivia-game :video_game:
 
 ## :round_pushpin: Setup Server 
 - Download beast boost library: https://www.boost.org/users/history/version_1_79_0.html
